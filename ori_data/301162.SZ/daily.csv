@@ -1,0 +1,2 @@
+trading_date,wind_code,open,high,low,close,volume,pct_chg,vwap,adj_factor,turn,free_turn,is_st,trade_status,close/free_turn,open/turn,volume/low,vwap/high,low/high,vwap/close
+2022-04-29,301162.SZ,50.0,63.6,49.2,63.6,10704777.0,40.926,56.449,1.0,63.664,63.664,0,交易,0.9989947222920331,0.7853732093490826,217576.76829268291,0.887562893081761,0.7735849056603774,0.887562893081761
